@@ -1,6 +1,6 @@
 # Architecture Diagram Template
 
-Owner: Some name
+Owner: Your Name
 
 Last Reviewed: 2019-03-12
 
